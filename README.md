@@ -1,3 +1,3 @@
 # BlinkIt-Dashboard
-This project explores the use of SQL for analyzing Blinkit's sales data, providing actionable insights into sales trends, outlet performance, and customer preferences. Key highlights include advanced queries for data-driven decision-making and optimizations to improve operational efficiency.
-Authored by: Nikita Tripathi, Akul Garg, Bhavyanshu Jain, Bharti Gaur, and Muskan Chauhan.
+This project leverages an interactive dashboard to analyze Blinkit's sales data, uncover trends, and optimize strategies. It provides insights into sales performance across outlets, locations, and product categories, empowering data-driven decisions.
+Created by: Nikita Tripathi, Akul Garg, and Bhavyanshu Jain.
